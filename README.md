@@ -5,6 +5,8 @@ Some Links to check out:
 
 LIME : 
 
+        https://cran.r-project.org/web/packages/lime/vignettes/Understanding_lime.html
+
        https://dl.acm.org/citation.cfm?id=2939778
 
        https://arxiv.org/abs/1606.05386
